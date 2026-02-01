@@ -1,9 +1,36 @@
-# AFI360
-Aplicación de algoritmos AFI360 para detectar y mitigar sesgos sobre regresión logística de clasificación de personas por ingresos. Uso de librerías scikit-learn 
-para aprendizaje estadístico computacional, librería Matplotlib para visualización de datos, Lenguaje de programación Python, entorno de trabajo Jupyter Notebook.
+📌 Descripción del proyecto
 
-El concepto de sesgo hace referencia, a que el modelo privilegie un grupo de personas según variables sensibles como la raza, el sexo, etc. 
-para acceder a un beneficio o perjuicio.
+Este proyecto aborda el problema de los sesgos algorítmicos en modelos de machine learning, aplicando técnicas de fairness para evaluar y mitigar posibles discriminaciones en un modelo de clasificación de ingresos.
+
+🎯 Objetivo
+
+Identificar sesgos en un modelo de regresión logística
+
+Evaluar el impacto de variables sensibles (por ejemplo, sexo, raza u otros atributos protegidos)
+
+Aplicar técnicas de mitigación para mejorar la equidad del modelo
+
+⚙️ Metodología
+
+Entrenamiento de un modelo de regresión logística
+
+Evaluación de métricas de fairness utilizando AIF360
+
+Aplicación de técnicas de mitigación de sesgos
+
+Comparación del desempeño del modelo antes y después de la mitigación
+
+🛠️ Tecnologías utilizadas
+
+Python
+
+scikit-learn
+
+AIF360
+
+Matplotlib
+
+Jupyter Notebook
 
 https://github.com/DianaGarcesPortilla/AFI360/blob/main/AFI360.ipynb
 
