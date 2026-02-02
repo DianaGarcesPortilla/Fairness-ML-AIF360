@@ -1,6 +1,6 @@
 📌 Descripción del proyecto
 
-Este proyecto aborda el problema del sesgo en un modelo de clasificación de ingresos, aplicando técnicas de fairness para evaluar y mitigar posibles discriminaciones por las condiciones raza,sexo u otras variables sensibles.
+Este proyecto aborda el problema del sesgo en un modelo de clasificación de ingresos, aplicando técnicas de fairness para evaluar y mitigar posibles discriminaciones por las condiciones raza, sexo u otras variables sensibles.
 
 🎯 Objetivo
 
